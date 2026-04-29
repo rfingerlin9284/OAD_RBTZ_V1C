@@ -1,0 +1,20 @@
+# Copy these from the old machine or extracted backup onto the new machine.
+# This public repo does NOT contain secrets or the exact live .env.
+
+OAD_PROD
+OAD_DEV
+OAD_CLONE
+OAD_FREEZE
+PRODUCTION_BUNDLES
+RBOTZILLA_VERSION_AUDIT_LAB
+OAD_PROD_SAFE_SNAPSHOTS
+RBOTZILLA_VERSION_LEDGER.json
+.dual_bot_paths.json
+.rbotzilla_runtime_registry.json
+.vscode
+.vscode-server
+.vscode-remote-containers
+.codex
+.config/Antigravity
+.gitconfig
+.ssh

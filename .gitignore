@@ -1,0 +1,19 @@
+# Public bootstrap repo only
+.env
+.env.*
+*.pem
+*.key
+*.sqlite
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+logs/
+backups/
+__pycache__/
+.vscode/
+.vscode-server/
+.vscode-remote-containers/
+.codex/
+.config/
+.ssh/
